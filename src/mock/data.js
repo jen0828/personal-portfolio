@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: "The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in TransportEngineering, my previous career involved data analysis, building transport simulation models and data automation, which required a similar coding process - it was this work that initially sparked my interest in programming.",
+  paragraphTwo: 'I have recently graduated from the highly selective Makers Academy Bootcamp, and I am looking for my first role as a software developer.',
+  paragraphThree: 'Please see my CV and portfolio projects below.',
   resume: 'https://github.com/jen0828/CV', // if no resume, the button will not show up
 };
 
