@@ -56,7 +56,7 @@ const About = () => {
                       className="cta-btn cta-btn--resume"
                       href={resume}
                     >
-                      CV
+                      CV here
                     </a>
                   </span>
                 )}
