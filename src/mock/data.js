@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Jenny Moon',
-  subtitle: 'Software Developer',
+  subtitle: '- Software Developer',
   cta: '',
 };
 
@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'Makersbnb',
     info: 'An Air BnB inspired web application with a database that allows users to browse and book a space.',
     info2: 'Tech/tools: Ruby, PostgreSQL, Sinatra, RSpec, Capybara, Bootstrap, HTML, CSS',
-    url: '',
+    url: 'https://github.com/jen0828/MakerBnB',
     repo: 'https://github.com/jen0828/MakerBnB', // if no repo, the button will not show up
   },
 ];
