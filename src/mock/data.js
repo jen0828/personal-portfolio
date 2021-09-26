@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Tutoroom',
     info: 'A tutoring web application built using Ruby on Rails backend with JavaScript/ React frontend.',
     info2: 'Tech/ tools: Ruby, Rails, Javascript, React, Jest, RSpec, Insomnia, Axios, Amazon S3, Bootstrap',
-    url: 'https://user-images.githubusercontent.com/79845719/134803826-5458801c-f2a5-4eb5-922d-7c2fde070bf5.gif',
+    url: 'https://user-images.githubusercontent.com/79845719/134815371-7cc97143-2de0-4526-bdbe-3addb105f008.gif',
     repo: 'https://github.com/jen0828/tutoroom_fe', // if no repo, the button will not show up
   },
   {
