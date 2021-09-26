@@ -30,8 +30,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Tutoroom',
-    info: '',
-    info2: '',
+    info: 'A tutoring web application built using Ruby on Rails backend with JavaScript/ React frontend.',
+    info2: 'Tech/ tools: Ruby, Rails, Javascript, React, Jest, RSpec, Insomnia, Axios, Amazon S3, Bootstrap',
     url: '',
     repo: 'https://github.com/jen0828/tutoroom_fe', // if no repo, the button will not show up
   },
@@ -39,17 +39,17 @@ export const projectsData = [
     id: nanoid(),
     img: 'project-2.jpg',
     title: 'Catbook',
-    info: '',
-    info2: '',
-    url: '',
+    info: 'A full-stack social media application built with Ruby on Rails',
+    info2: 'Tech/tools: Ruby, Rails, RSpec, Capybara, Heroku, HTML, CSS',
+    url: 'https://gentle-wave-85477.herokuapp.com/',
     repo: 'https://github.com/jen0828/acebook-StringMeAlong', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project-3.jpg',
     title: 'Makersbnb',
-    info: '',
-    info2: '',
+    info: 'An Air BnB inspired web application with a database that allows users to browse and book a space.',
+    info2: 'Tech/tools: Ruby, PostgreSQL, Sinatra, RSpec, Capybara, Bootstrap, HTML, CSS',
     url: '',
     repo: 'https://github.com/jen0828/MakerBnB', // if no repo, the button will not show up
   },
