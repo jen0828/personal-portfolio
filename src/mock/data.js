@@ -18,8 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: "The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in TransportEngineering, my previous career involved data analysis, building transport simulation models and data automation, which required a similar coding process - it was this work that initially sparked my interest in programming.",
-  paragraphTwo: 'I have recently graduated from the highly selective Makers Academy Bootcamp, and I am looking for my first role as a software developer.',
+  paragraphOne:
+    "The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in TransportEngineering, my previous career involved data analysis, building transport simulation models and data automation, which required a similar coding process - it was this work that initially sparked my interest in programming.",
+  paragraphTwo:
+    'I have recently completed the Full Stack developer course at Makers Academy in London, and I am looking for my first role as a software developer.',
   paragraphThree: 'Please see my CV and portfolio projects below.',
   resume: 'https://github.com/jen0828/CV', // if no resume, the button will not show up
 };
@@ -31,7 +33,8 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Tutoroom',
     info: 'A tutoring web application built using Ruby on Rails backend with JavaScript/ React frontend.',
-    info2: 'Tech/ tools: Ruby, Rails, Javascript, React, Jest, RSpec, Insomnia, Axios, Amazon S3, Bootstrap',
+    info2:
+      'Tech/ tools: Ruby, Rails, Javascript, React, Jest, RSpec, Insomnia, Axios, Amazon S3, Bootstrap',
     url: 'https://user-images.githubusercontent.com/79845719/134815371-7cc97143-2de0-4526-bdbe-3addb105f008.gif',
     repo: 'https://github.com/jen0828/tutoroom_fe', // if no repo, the button will not show up
   },
