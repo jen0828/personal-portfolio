@@ -1,3 +1,3 @@
 # Portfolio
 
-[The portfolio website](https://portfolio-jmoon.netlify.app/) has been deployed using Netlify.
+The personal portfolio website has been deployed on Netlify : https://portfolio-jmoon.netlify.app/
