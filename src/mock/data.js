@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     "The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in Transport Engineering, my previous career involved data analysis, building transport simulation models and data automation, which required a similar coding process - it was this work that initially sparked my interest in programming.",
   paragraphTwo:
-    'I have recently completed the Full Stack developer course at Makers Academy in London, and I am looking for my first role as a software developer.',
+    'I have recently completed Full Stack developer course at Makers Academy in London, and I am looking for my first role as a software developer.',
   paragraphThree: 'Please see my CV and portfolio projects below.',
   resume: 'https://github.com/jen0828/CV', // if no resume, the button will not show up
 };
