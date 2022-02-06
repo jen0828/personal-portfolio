@@ -30,6 +30,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'shopnature.jpg',
+    title: 'ShopNature',
+    info: 'An e-commerce app built with React, Redux and tested with Cypress',
+    info2: 'Tech/tools: React, Redux, JavaScript, JSON-server, Bootstrap, Axios, Testing (Cypress)',
+    url: 'https://shopnature.netlify.app/',
+    repo: 'https://github.com/jen0828/ShopNature',
+  },
+  {
+    id: nanoid(),
     img: 'project.jpg',
     title: 'Tutoroom',
     info: 'A full-stack tutoring web application built with Rails API and React frontend',
@@ -46,15 +55,6 @@ export const projectsData = [
     info2: 'Tech/tools: Ruby, Rails, , Heroku, HTML, CSS, Testing (RSpec, Capybara)',
     url: 'https://gentle-wave-85477.herokuapp.com/',
     repo: 'https://github.com/jen0828/acebook-StringMeAlong', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'shopnature.jpg',
-    title: 'ShopNature',
-    info: 'An e-commerce app built with React, Redux and tested with Cypress',
-    info2: 'Tech/tools: React, Redux, JavaScript, JSON-server, Bootstrap, Axios, Testing (Cypress)',
-    url: 'https://shopnature.netlify.app/',
-    repo: 'https://github.com/jen0828/ShopNature',
   },
   {
     id: nanoid(),
