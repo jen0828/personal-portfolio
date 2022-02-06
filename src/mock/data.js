@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Jenny Moon | Developer', // e.g: 'Name | Developer'
-  lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my website', // e.g: Welcome to my website
+  title: 'Jenny Moon | Developer',
+  lang: 'en',
+  description: 'Welcome to my website',
 };
 
 // HERO DATA
@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I have recently completed the Full Stack developer course at Makers Academy in London, and I am looking for my first role as a software developer.',
   paragraphThree: 'Please see my CV and portfolio projects below.',
-  resume: 'https://github.com/jen0828/CV', // if no resume, the button will not show up
+  resume: 'https://github.com/jen0828/CV',
 };
 
 // PROJECTS DATA
@@ -45,7 +45,7 @@ export const projectsData = [
     info2:
       'Tech/ tools: Ruby, Rails, Javascript, React, Insomnia, Axios, Amazon S3, Bootstrap, Testing (Jest, React testing libray, RSpec)',
     url: 'https://user-images.githubusercontent.com/79845719/134815371-7cc97143-2de0-4526-bdbe-3addb105f008.gif',
-    repo: 'https://github.com/jen0828/tutoroom_fe', // if no repo, the button will not show up
+    repo: 'https://github.com/jen0828/tutoroom_fe',
   },
   {
     id: nanoid(),
@@ -54,7 +54,7 @@ export const projectsData = [
     info: 'A full-stack social media application built with Ruby on Rails',
     info2: 'Tech/tools: Ruby, Rails, , Heroku, HTML, CSS, Testing (RSpec, Capybara)',
     url: 'https://gentle-wave-85477.herokuapp.com/',
-    repo: 'https://github.com/jen0828/acebook-StringMeAlong', // if no repo, the button will not show up
+    repo: 'https://github.com/jen0828/acebook-StringMeAlong',
   },
   {
     id: nanoid(),
@@ -98,5 +98,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false,
 };
