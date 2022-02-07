@@ -43,7 +43,7 @@ export const projectsData = [
     title: 'Tutoroom',
     info: 'A full-stack tutoring web application built with Rails API and React frontend',
     info2:
-      'Tech/ tools: Ruby, Rails, Javascript, React, Insomnia, Axios, Amazon S3, Bootstrap, Testing (Jest, React testing libray, RSpec)',
+      'Tech/ tools: Ruby, Rails, Javascript, React, Insomnia, Axios, Amazon S3, Bootstrap, Testing (Jest, React testing library, RSpec)',
     url: 'https://user-images.githubusercontent.com/79845719/134815371-7cc97143-2de0-4526-bdbe-3addb105f008.gif',
     repo: 'https://github.com/jen0828/tutoroom_fe',
   },
@@ -52,7 +52,7 @@ export const projectsData = [
     img: 'project-2.jpg',
     title: 'Catbook',
     info: 'A full-stack social media application built with Ruby on Rails',
-    info2: 'Tech/tools: Ruby, Rails, , Heroku, HTML, CSS, Testing (RSpec, Capybara)',
+    info2: 'Tech/tools: Ruby, Rails, Heroku, HTML, CSS, Testing (RSpec, Capybara)',
     url: 'https://gentle-wave-85477.herokuapp.com/',
     repo: 'https://github.com/jen0828/acebook-StringMeAlong',
   },
