@@ -19,11 +19,10 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in the infrastructure industry for global engineering consultancies and the public sector, my previous career involved data analysis and building transport simulation models, which required a similar coding process - it was this work that initially sparked my interest in programming. ",
+    "The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in the infrastructure industry for both global engineering consultancies and the public sector, my previous career involved data analysis and building transport simulation models, which required a similar coding process - it was this work that initially sparked my interest in programming. ",
   paragraphTwo:
     "After discovering my passion for programming. I couldn't get enough. I completely immersed myself in a self-learning journey - this led me to join the highly selective Full Stack developer program at Makers Academy, where I learned how to write quality, fully tested and extensible code.",
-  paragraphThree: 'Please see my CV and portfolio projects below.',
-  resume: 'https://github.com/jen0828/CV',
+  paragraphThree: 'Please see my portfolio projects below.',
 };
 
 // PROJECTS DATA
@@ -62,7 +61,7 @@ export const projectsData = [
     title: 'Todos',
     info: 'A simple productivity app using Test-Driven Development (TDD) with Jest & React testing library',
     info2:
-      'Tech/tools: React, JavsScript, Bootstrap, Netlify, Responsive design, Testing (Jest, React testing library)',
+      'Tech/tools: React, TypeScript, Bootstrap, Netlify, Responsive design, Testing (Jest, React testing library)',
     url: 'https://jens-todo.netlify.app/',
     repo: 'https://github.com/jen0828/Todos-react',
   },
