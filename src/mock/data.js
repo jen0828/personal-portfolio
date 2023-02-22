@@ -22,7 +22,8 @@ export const aboutData = {
     "The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in the infrastructure industry for both global engineering consultancies and the public sector, my previous career involved data analysis and building transport simulation models, which required a similar coding process - it was this work that initially sparked my interest in programming. ",
   paragraphTwo:
     "After discovering my passion for programming. I couldn't get enough. I completely immersed myself in a self-learning journey - this led me to join the highly selective Full Stack developer program at Makers Academy, where I learned how to write quality, fully tested and extensible code.",
-  paragraphThree: 'Please see my portfolio projects below.',
+  paragraphThree:
+    "Now, my goal is to use my programming skills to create products and services that make a positive impact on people's lives, just as technology has had a positive impact on my own.",
 };
 
 // PROJECTS DATA
