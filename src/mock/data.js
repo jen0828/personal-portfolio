@@ -39,6 +39,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'game.jpg',
+    title: 'DiceGame',
+    info: 'An interative dice game built with React and tested with Cypress',
+    info2: 'Tech/tools: React, React Hooks, JavaScript, Netlify, Testing (Cypress)',
+    url: 'https://dicegamefun.netlify.app/',
+    repo: 'https://github.com/jen0828/diceGame',
+  },
+  {
+    id: nanoid(),
     img: 'project.jpg',
     title: 'Tutoroom',
     info: 'A full-stack tutoring web application built with Rails API and React frontend',
