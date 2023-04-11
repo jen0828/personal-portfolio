@@ -40,9 +40,9 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'blog.jpg',
-    title: 'MyTil',
+    title: 'MyTIL',
     info: 'Personal tech-blog built with Next.js',
-    info2: 'Tech/tools: TypeScript, Next.js, TailWind CSS, Vercel',
+    info2: 'Tech/tools: TypeScript, Next.js, Tailwind CSS, Vercel',
     url: 'https://my-til.vercel.app/',
     repo: 'https://github.com/jen0828/my-til',
   },
