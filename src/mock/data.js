@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Jenny Moon | Developer',
+  title: 'Jenny Moon | Portfolio',
   lang: 'en',
   description: 'Welcome to my website',
 };
@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Jenny Moon',
-  subtitle: '- Software Developer',
+  subtitle: '- Full Stack Engineer',
   cta: 'Know more',
 };
 
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in the infrastructure industry for both global engineering consultancies and the public sector, my previous career involved data analysis and building transport simulation models, which required a similar coding process - it was this work that initially sparked my interest in programming. ",
+    "The way the tech industry transforms people's lives is fascinating, and I am passionate about being a part of this exciting industry. With over ten years of experience working in the infrastructure industry for both leading global engineering consultancies and the public sector, my previous career involved data analysis and building transport simulation models, which required a coding process - it was this work that initially sparked my interest in programming. ",
   paragraphTwo:
     "After discovering my passion for programming. I couldn't get enough. I completely immersed myself in a self-learning journey - this led me to join the highly selective Full Stack developer program at Makers Academy, where I learned how to write quality, fully tested and extensible code.",
   paragraphThree:
